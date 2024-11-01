@@ -1,0 +1,62 @@
+
+gameplay.png
+size: 1024, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cargo-container
+  rotate: false
+  xy: 132, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cargo-metal
+  rotate: false
+  xy: 262, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cargo-wood
+  rotate: false
+  xy: 392, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+one
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pirate-ship
+  rotate: false
+  xy: 522, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+two
+  rotate: false
+  xy: 782, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 652, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
